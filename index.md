@@ -1,0 +1,1 @@
+This tool is used solely by its owner to manage personal eBay listings. No personal data from other users is collected or stored.
